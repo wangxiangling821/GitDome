@@ -10,5 +10,6 @@ private int a;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         a = 45;
+        a= 345;
     }
 }
